@@ -1,3 +1,5 @@
+//Michelle Weru SCT221-0222/2023
+//Zaina Muthoni SCT221-0277/2023
 #include <stdio.h>
 #include <stdlib.h>
 
